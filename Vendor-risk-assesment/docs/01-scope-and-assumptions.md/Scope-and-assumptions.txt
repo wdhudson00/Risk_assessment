@@ -1,0 +1,14 @@
+Organization: Carbon Cluster (fictional company)
+Vendor: Synergy Masters (fictional company)
+Service: Issue tracking, technical document collaboration, design review workflow
+Business Owner: CEO Richard Milliger (fictional)
+Vendor Relationship Owner: Procurement Manager Todd Milliger (fictional)
+Risk Owner: Risk Analyst 
+Assessment Type: Pre-onboarding assessment
+Assessment Objective: Determine acceptable use, security conditions, and residual risk
+In-Scope Data: Business contact data, engineering workflow metadata, internal technical documents classified as sensitive but not CUI for the case study
+Out of Scope: Real CUI, classified data, ITAR controlled technical data, real production integrations
+Planned integrations: SSO through an identity provider, no direct privileged access to customer production systems
+Assessment Limitation: All vendor statements and evidence are simulated for learning purposes
+
+

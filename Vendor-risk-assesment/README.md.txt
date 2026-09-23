@@ -1,0 +1,1 @@
+This is an educational exercise to practice third-party vendor risk management workflows. It does not assess a real vendor, does not use real company data, and does not involve CUI, classified information, export controlled technical data, or legal advice.  
